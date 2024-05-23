@@ -1,3 +1,5 @@
+//here remove the lint options and set the hooks at the top of the logics.
+
 import { useState } from 'react';
 
 export default function FeedbackForm() {
